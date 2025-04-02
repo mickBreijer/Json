@@ -5,9 +5,9 @@
         "stadion": "Johan Cruyff Arena",
         "team": "Ajax",
         "capacity": 55352,
-        "coordinates": {
-            "latitude": 52.3738,
-            "longitude": 4.9419
+        "coordinates": { 
+            "latitude": 52.3146,
+            "longitude": 4.9414
         }
     },
     {
@@ -16,9 +16,9 @@
         "stadion": "AFAS Stadion",
         "team": "AZ",
         "capacity": 17000,
-        "coordinates": {
-            "latitude": 52.6375,
-            "longitude": 4.7381
+        "coordinates": { 
+            "latitude": 52.6127,
+            "longitude": 4.7419
         }
     },
     {
@@ -27,9 +27,9 @@
         "stadion": "De Grolsch Veste",
         "team": "FC Twente",
         "capacity": 30000,
-        "coordinates": {
-            "latitude": 52.2275,
-            "longitude": 6.8953
+        "coordinates": { 
+            "latitude": 52.2366,
+            "longitude": 6.8375
         }
     },
     {
@@ -39,8 +39,8 @@
         "team": "FC Utrecht",
         "capacity": 24150,
         "coordinates": {
-            "latitude": 52.0907,
-            "longitude": 5.1167
+            "latitude": 52.0782,
+            "longitude": 5.1460
         }
     },
     {
@@ -61,8 +61,8 @@
         "team": "Fortuna Sittard",
         "capacity": 14000,
         "coordinates": {
-            "latitude": 51.0033,
-            "longitude": 5.8833
+            "latitude": 51.9920,
+            "longitude": 5.8434
         }
     },
     {
@@ -72,8 +72,8 @@
         "team": "Go Ahead Eagles",
         "capacity": 12000,
         "coordinates": {
-            "latitude": 52.2667,
-            "longitude": 6.1667
+            "latitude": 52.2604,
+            "longitude": 6.1724
         }
     },
     {
@@ -83,8 +83,8 @@
         "team": "Heracles Almelo",
         "capacity": 12000,
         "coordinates": {
-            "latitude": 52.3667,
-            "longitude": 6.6667
+            "latitude": 52.3388,
+            "longitude": 6.6509
         }
     },
     {
@@ -94,8 +94,8 @@
         "team": "NEC",
         "capacity": 12600,
         "coordinates": {
-            "latitude": 51.8425,
-            "longitude": 5.8375
+            "latitude": 51.8223,
+            "longitude": 5.8374
         }
     },
     {
@@ -105,9 +105,10 @@
         "team": "PEC Zwolle",
         "capacity": 12000,
         "coordinates": {
-            "latitude": 52.5167,
-            "longitude": 6.0833
+            "latitude": 52.8223,
+            "longitude": 5.8374
         }
+        
     },
     {
         "id": 11,
@@ -116,8 +117,8 @@
         "team": "PSV",
         "capacity": 35500,
         "coordinates": {
-            "latitude": 51.4415,
-            "longitude": 5.4697
+            "latitude": 51.4417,
+            "longitude": 5.4672
         }
     },
     {
@@ -127,8 +128,8 @@
         "team": "RKC Waalwijk",
         "capacity": 8000,
         "coordinates": {
-            "latitude": 51.6833,
-            "longitude": 5.0583
+            "latitude": 51.6865,
+            "longitude": 5.0890
         }
     },
     {
@@ -138,8 +139,8 @@
         "team": "SC Heerenveen",
         "capacity": 26600,
         "coordinates": {
-            "latitude": 52.9592,
-            "longitude": 5.9261
+            "latitude": 52.9586,
+            "longitude": 5.9360
         }
     },
     {
@@ -149,8 +150,8 @@
         "team": "Sparta Rotterdam",
         "capacity": 11000,
         "coordinates": {
-            "latitude": 51.9111,
-            "longitude": 4.4875
+            "latitude": 51.9194,
+            "longitude": 4.4334
         }
     },
     {
@@ -160,8 +161,8 @@
         "team": "Almere City",
         "capacity": 8000,
         "coordinates": {
-            "latitude": 52.3732,
-            "longitude": 5.2155
+            "latitude": 52.3933,
+            "longitude": 5.2417
         }
     },
     {
@@ -171,8 +172,8 @@
         "team": "NAC Breda",
         "capacity": 19100,
         "coordinates": {
-            "latitude": 51.585,
-            "longitude": 4.775
+            "latitude": 51.5948,
+            "longitude": 4.7503
         }
     },
     {
@@ -182,8 +183,8 @@
         "team": "Willem II",
         "capacity": 14500,
         "coordinates": {
-            "latitude": 51.5583,
-            "longitude": 5.0733
+            "latitude": 51.5427,
+            "longitude": 5.0667
         }
     },
     {
@@ -193,8 +194,8 @@
         "team": "FC Groningen",
         "capacity": 22000,
         "coordinates": {
-            "latitude": 53.2182,
-            "longitude": 6.5776
+            "latitude": 53.2062,
+            "longitude": 6.5916
         }
     }
 ]
