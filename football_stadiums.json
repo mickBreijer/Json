@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "capital": "Amsterdam",
+        "stadion": "Johan Cruyff Arena",
+        "team": "Ajax",
+        "capacity": 55352,
+        "coordinates": {
+            "latitude": 52.3738,
+            "longitude": 4.9419
+        }
+    },
+    {
+        "id": 2,
+        "capital": "Alkmaar",
+        "stadion": "AFAS Stadion",
+        "team": "AZ",
+        "capacity": 17000,
+        "coordinates": {
+            "latitude": 52.6375,
+            "longitude": 4.7381
+        }
+    },
+    {
+        "id": 3,
+        "capital": "Enschede",
+        "stadion": "De Grolsch Veste",
+        "team": "FC Twente",
+        "capacity": 30000,
+        "coordinates": {
+            "latitude": 52.2275,
+            "longitude": 6.8953
+        }
+    },
+    {
+        "id": 4,
+        "capital": "Utrecht",
+        "stadion": "Stadion Galgenwaard",
+        "team": "FC Utrecht",
+        "capacity": 24150,
+        "coordinates": {
+            "latitude": 52.0907,
+            "longitude": 5.1167
+        }
+    },
+    {
+        "id": 5,
+        "capital": "Rotterdam",
+        "stadion": "De Kuip",
+        "team": "Feyenoord",
+        "capacity": 51117,
+        "coordinates": {
+            "latitude": 51.8939,
+            "longitude": 4.5229
+        }
+    },
+    {
+        "id": 6,
+        "capital": "Sittard",
+        "stadion": "Fortuna Sittard Stadion",
+        "team": "Fortuna Sittard",
+        "capacity": 14000,
+        "coordinates": {
+            "latitude": 51.0033,
+            "longitude": 5.8833
+        }
+    },
+    {
+        "id": 7,
+        "capital": "Deventer",
+        "stadion": "De Adelaarshorst",
+        "team": "Go Ahead Eagles",
+        "capacity": 12000,
+        "coordinates": {
+            "latitude": 52.2667,
+            "longitude": 6.1667
+        }
+    },
+    {
+        "id": 8,
+        "capital": "Almelo",
+        "stadion": "Erve Asito",
+        "team": "Heracles Almelo",
+        "capacity": 12000,
+        "coordinates": {
+            "latitude": 52.3667,
+            "longitude": 6.6667
+        }
+    },
+    {
+        "id": 9,
+        "capital": "Nijmegen",
+        "stadion": "Goffertstadion",
+        "team": "NEC",
+        "capacity": 12600,
+        "coordinates": {
+            "latitude": 51.8425,
+            "longitude": 5.8375
+        }
+    },
+    {
+        "id": 10,
+        "capital": "Zwolle",
+        "stadion": "MAC3PARK Stadion",
+        "team": "PEC Zwolle",
+        "capacity": 12000,
+        "coordinates": {
+            "latitude": 52.5167,
+            "longitude": 6.0833
+        }
+    },
+    {
+        "id": 11,
+        "capital": "Eindhoven",
+        "stadion": "Philips Stadion",
+        "team": "PSV",
+        "capacity": 35500,
+        "coordinates": {
+            "latitude": 51.4415,
+            "longitude": 5.4697
+        }
+    },
+    {
+        "id": 12,
+        "capital": "Waalwijk",
+        "stadion": "Mandemakers Stadion",
+        "team": "RKC Waalwijk",
+        "capacity": 8000,
+        "coordinates": {
+            "latitude": 51.6833,
+            "longitude": 5.0583
+        }
+    },
+    {
+        "id": 13,
+        "capital": "Heerenveen",
+        "stadion": "Abe Lenstra Stadion",
+        "team": "SC Heerenveen",
+        "capacity": 26600,
+        "coordinates": {
+            "latitude": 52.9592,
+            "longitude": 5.9261
+        }
+    },
+    {
+        "id": 14,
+        "capital": "Rotterdam",
+        "stadion": "Sparta Stadion",
+        "team": "Sparta Rotterdam",
+        "capacity": 11000,
+        "coordinates": {
+            "latitude": 51.9111,
+            "longitude": 4.4875
+        }
+    },
+    {
+        "id": 15,
+        "capital": "Almere",
+        "stadion": "Yanmar Stadion",
+        "team": "Almere City",
+        "capacity": 8000,
+        "coordinates": {
+            "latitude": 52.3732,
+            "longitude": 5.2155
+        }
+    },
+    {
+        "id": 16,
+        "capital": "Breda",
+        "stadion": "Rat Verlegh Stadion",
+        "team": "NAC Breda",
+        "capacity": 19100,
+        "coordinates": {
+            "latitude": 51.585,
+            "longitude": 4.775
+        }
+    },
+    {
+        "id": 17,
+        "capital": "Tilburg",
+        "stadion": "Koning Willem II Stadion",
+        "team": "Willem II",
+        "capacity": 14500,
+        "coordinates": {
+            "latitude": 51.5583,
+            "longitude": 5.0733
+        }
+    },
+    {
+        "id": 18,
+        "capital": "Groningen",
+        "stadion": "Euroborg",
+        "team": "FC Groningen",
+        "capacity": 22000,
+        "coordinates": {
+            "latitude": 53.2182,
+            "longitude": 6.5776
+        }
+    }
+]
