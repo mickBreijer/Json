@@ -105,10 +105,9 @@
         "team": "PEC Zwolle",
         "capacity": 12000,
         "coordinates": {
-            "latitude": 52.8223,
-            "longitude": 5.8374
+            "latitude": 52.5171,
+            "longitude": 6.1208
         }
-        
     },
     {
         "id": 11,
